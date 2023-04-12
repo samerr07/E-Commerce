@@ -1,0 +1,26 @@
+.carts {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    background-color: #1c1f2b;
+    overflow-y: hidden;
+
+    > div > h1 {
+      overflow-y: hidden;
+      color: white;
+     
+    }
+  }
+
+  .sim {
+    overflow: hidden;
+  }
+
+   h1 {
+    overflow-y: hidden;
+  }
+  
+  
+  

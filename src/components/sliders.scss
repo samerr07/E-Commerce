@@ -1,0 +1,14 @@
+.carousel{
+    margin-top: 5px;
+    margin-left: 10px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.carousel > .slid {
+    overflow-y: hidden;
+}
+
+img:hover {
+    cursor: pointer;
+}
